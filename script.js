@@ -9,7 +9,7 @@ const url = "https://twitter-trends5.p.rapidapi.com/twitter/request.php";
 const options = {
   method: "POST",
   headers: {
-    "x-rapidapi-key": "",
+    "x-rapidapi-key": "f51dfeb596msh2a09d5a11531be0p1fc9a3jsn7cede9d10972",
     "x-rapidapi-host": "twitter-trends5.p.rapidapi.com",
     "Content-Type": "application/x-www-form-urlencoded",
   },
